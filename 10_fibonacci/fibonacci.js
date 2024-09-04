@@ -22,7 +22,7 @@ const fibonacci = function(n) {
 };
 
 // DEBUG TESTING
-console.log(fibonacci(3));
+//console.log(fibonacci(3));
 
 // Do not edit below this line
 module.exports = fibonacci;
